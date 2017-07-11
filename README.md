@@ -1,2 +1,2 @@
 # Udacity_Deep_Learning_Nano
-project of Udacity deep learning nanodegree
+This directory has all my projects from **Udacity Deep Learning Nanodegree**.
